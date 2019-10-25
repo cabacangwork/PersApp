@@ -1,0 +1,17 @@
+
+
+.content-wrapper {
+    max-width: 1200px;
+    margin: 50px;
+}
+
+.header-title, .item-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
